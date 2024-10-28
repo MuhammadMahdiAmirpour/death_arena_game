@@ -21,13 +21,3 @@ cd your_repo_dir
 run tests from terminal:  
    <code> mvn clean test </code>
 </li>
-
-<li>
-push your change to the repository: 
-<code>
-    git add . 
-    git commit -m "commit message"
-    git push
-</code>
-</li>
-# death_arena_game
